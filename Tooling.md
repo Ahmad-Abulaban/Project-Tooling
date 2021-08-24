@@ -189,4 +189,39 @@
 ## Q3
 
 
+## The tools I chose to create my project is Visual Studio Code because it has several features, including:
+
+1. open source
+2. easy to use.
+3. It can be used on all devices.
+4. Quick correction.
+5. Simplified user interface.
+6. It is possible to test the code before sending it (live server).
+
+**There are also a lot of features so I chose it.**
+
+***
+
+## The tools I chose to create my project is Linux because it has several features, including:
+
+1. The operating system Linux is free and open source.
+2. Linux is a completely free operating system.
+3. The case of the file name is sensitive.
+4. Monolithic kernels are used in Linux.
+5. Linux is more efficient.
+6. Linux provides security
+
+**There are also a lot of features so I chose it.**
+
+***
+
+## The tools I chose to create my project is github because it has several features, including:
+
+1. open source
+2. Allows for simple sharing
+3. user friendly
+4. Setup is simple.
+5. Allows for cooperation from afar
+
+**There are also a lot of features so I chose it.**
 
