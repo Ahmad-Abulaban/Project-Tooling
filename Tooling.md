@@ -133,6 +133,15 @@
 
 ***
 
+## The tools I will use in my project are:
+
+1. IDE: Visual Studio Code.
+2. Operating System : Linux.
+3. Version-control platform : GitHub.
+
+
+***
+
 ## Q2
 
 * Visual Studio Code supports various languages and is simple to use. Visual Studio Code is an excellent solution when it comes to deployment simplicity. In addition, if Version Control is necessary, Visual Studio Code provides it.
@@ -172,6 +181,12 @@
 * user friendly
 * Setup is simple.
 * Allows for cooperation from afar
+
+
+
+***
+
+## Q3
 
 
 
