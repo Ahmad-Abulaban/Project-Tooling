@@ -27,6 +27,8 @@
 
 ## Q2-
 
+### risk:-
+
 1. Facing something I don't know how to solve.
 2. Standing at something you need to pause to learn to complete the task.
 3. The scope can be changed.
